@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         
     }
     
-    
+    //button comment
     @IBAction func buttons(_ sender: UIButton)
     {
         if label.text != "" && sender.tag != 11 && sender.tag != 16
